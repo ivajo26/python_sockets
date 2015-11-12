@@ -1,0 +1,3 @@
+identificacion,nombre,EPS,nivel de SISBEN
+51481,Juanito Perez,Comparta,1,
+6516161,Carlitos vanday,Mutual Ser,2,

@@ -1,0 +1,6 @@
+3125,Risaralda,525,
+134,Meta,244,
+1515,Risaralda,315,
+234,Risaralda,234,
+234,Risaralda,345,
+454,Manizales,122,

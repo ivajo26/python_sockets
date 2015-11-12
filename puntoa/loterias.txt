@@ -1,0 +1,5 @@
+Lunes,Boyaca,Manizales,
+Martes,Cundinamarca,Meta,Oro,Risaralda,
+Miercoles,Boyaca,Oro,Risaralda,
+Jueves,Cundinamarca,Manizales,Meta,
+Viernes,Boyaca,Meta,Risaralda,
